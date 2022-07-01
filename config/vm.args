@@ -1,0 +1,6 @@
+-sname emqt_sn
+
+-setcookie emqt_sn_cookie
+
++K true
++A30
